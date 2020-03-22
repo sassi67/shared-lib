@@ -2,7 +2,8 @@ package shared
 
 import "fmt"
 
-const RunShared string = "I am Run from shared lib - v0.1.0"
+/*RunShared --*/
+const RunShared string = "I am Run from shared lib - v0.1.1"
 
 /*Run ---*/
 func Run() (int, error) {
